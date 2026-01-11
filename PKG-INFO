@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pyftdi-shim
+Version: 1.0.0
+Summary: I2C Shim for using Raspberry Pi I2C libraries with pyftdi on Mac/PC
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+
+UNKNOWN
+

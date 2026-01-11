@@ -1,0 +1,7 @@
+pyftdi_shim.py
+setup.py
+pyftdi_shim.egg-info/PKG-INFO
+pyftdi_shim.egg-info/SOURCES.txt
+pyftdi_shim.egg-info/dependency_links.txt
+pyftdi_shim.egg-info/requires.txt
+pyftdi_shim.egg-info/top_level.txt
