@@ -20,12 +20,11 @@ self.sensor = AS7343(self.i2c)
 
 To run, create this file structure and put these files in the appropriate folder:
 
-pyftdi_shim_package
-- pyftdi_shim.py
-- setup.py
-- pyftdi_shim.egg-info
--- PKG-INFO
--- dependency_links.txt
--- requires.txt
--- SOURCES.txt
--- top_level.txt
+pyftdi_shim_package/
+├── pyftdi_shim.egg-info/                    
+│   ├── PKG-INFO/
+│   ├── dependency_links.txt/
+│   └── ... other 3 text files at this same level 
+│--setup.py
+|--pyftdi_shim.py
+
